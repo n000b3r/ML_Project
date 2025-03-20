@@ -4,7 +4,7 @@
 * pre_processing.py in the Pre-Processing folder reads benign and malicious file paths from two text files and transforms them into enriched CSV datasets for further analysis.
   
 * `pip install pandas`
-* ` python pre_processing.py benign_full_filepaths.txt malicious_full_filepaths.txt`
+* `python pre_processing.py benign_full_filepaths.txt malicious_full_filepaths.txt`
 
 * Generates multiple CSV outputs including:
 	 * final_full.csv: All data combined (benign + malicious), deduplicated.
