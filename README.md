@@ -1,7 +1,7 @@
 # ML_Project
 
-## Data pre-processing script
-* pre_processing.py reads in benign and malicious file paths from two text files and processes them into enriched CSV datasets for further analysis.
+## Data Pre-processing Script
+* pre_processing.py in the Pre-Processing folder reads benign and malicious file paths from two text files and transforms them into enriched CSV datasets for further analysis.
 
 * ` python pre_processing.py benign_full_filepaths.txt malicious_full_filepaths.txt`
 
