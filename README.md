@@ -8,6 +8,6 @@
 
 * Generates multiple CSV outputs including:
 	 * final_full.csv: All data combined (benign + malicious), deduplicated.
-	* final_5000.csv: A limited 5,000-row dataset
-	* final_10000.csv: A limited 10,000-row dataset.
+	* final_5000.csv: A balanced 5,000-row dataset for ML training.
+	* final_10000.csv: A balanced 10,000-row dataset for ML training.
 
